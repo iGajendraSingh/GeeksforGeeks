@@ -1,4 +1,4 @@
-Implement a Stack in which you can get min element in O(1) time and O(1) space.
+//Implement a Stack in which you can get min element in O(1) time and O(1) space.
 {
 #include<bits/stdc++.h>
 using namespace std;
